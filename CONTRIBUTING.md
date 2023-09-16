@@ -33,7 +33,7 @@
 $ sudo apt install golang git -y
 
 # Get this repository
-$ git clone https://github.com/tiagorlampert/CHAOS
+$ git clone https://github.com/georgiartemis/ascvascvasv
 
 # Go into the repository
 $ cd CHAOS/
@@ -58,7 +58,7 @@ docker push tiagorlampert/chaos:v5.0.0
 
 # Deploy on heroku (manual deployment)
 ```bash
-$ git clone https://github.com/tiagorlampert/CHAOS
+$ git clone https://github.com/georgiartemis/ascvascvasv
 $ cd CHAOS/
 
 $ heroku container:login
@@ -68,5 +68,5 @@ $ heroku container:release web
 $ heroku open
 
 # Can be called from a url to test
-# https://dashboard.heroku.com/new?button-url=https://github.com/tiagorlampert/CHAOS&template=https://github.com/tiagorlampert/CHAOS/tree/{branch_with_deploy}
+# https://dashboard.heroku.com/new?button-url=https://github.com/georgiartemis/ascvascvasv&template=https://github.com/georgiartemis/ascvascvasv/tree/{branch_with_deploy}
 ```

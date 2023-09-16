@@ -1,4 +1,4 @@
-module github.com/tiagorlampert/CHAOS/client
+module github.com/georgiartemis/ascvascvasv/client
 
 go 1.18
 
